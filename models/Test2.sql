@@ -4,7 +4,7 @@ with final as (
     select
         id  
 
-    from Model.Encounter.Test
+    from Models.Encounter.Test
 
 ) 
 
